@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Armando Actualizado",
+      "empresa": "a",
+      "email": "caprilesarmando@gmail.com",
+      "telefono": "2532000",
+      "notas": "Es una prueba",
+      "id": 1
+    },
+    {
+      "nombre": "José",
+      "empresa": "E",
+      "email": "caprilesarmando@gmail.com",
+      "telefono": "04242365252",
+      "notas": "Es una prueba",
+      "id": 2
+    },
+    {
+      "nombre": "Ender",
+      "empresa": "SIMPatico",
+      "email": "caprilesarmando@gmail.com",
+      "telefono": "04242365252",
+      "notas": "Es una prueba",
+      "id": 3
+    },
+    {
+      "nombre": "Angel",
+      "empresa": "Angel Cafés",
+      "email": "angel@angel.com",
+      "telefono": "555555555",
+      "notas": "Cliente que hace café",
+      "id": 4
+    },
+    {
+      "nombre": "Oscar",
+      "empresa": "Pajas Locas All Day C.A",
+      "email": "oscario2708@gmail.com",
+      "telefono": "55555555",
+      "notas": "XD",
+      "id": 6
+    }
+  ]
+}
